@@ -2,7 +2,7 @@
 An updated version (Swift 4.2 compatible) for this customized Segmented Control for iOS based on 2014 Tope Abayomi 's implementation
 
 ## Instructions
-1.- Import on your project
+1.- Import in your project
 
 2.- On your storyboard add a new UIView
 
